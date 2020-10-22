@@ -1,0 +1,38 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 3.145281999999952,
+                    "emotion": "anger",
+                    "text": "선생님 이거 안보이세요?",
+                    "valence": 4.0,
+                    "onset": 0.7007029999999759
+                },
+                "002": {
+                    "arousal": 6.0,
+                    "violence": "violence",
+                    "offset": 32.73825099999999,
+                    "emotion": "excitement",
+                    "text": "이 학교의 룰 장근원이 법이다",
+                    "valence": 5.0,
+                    "onset": 25.78525599999989
+                },
+                "001": {
+                    "arousal": 6.0,
+                    "violence": "violence",
+                    "offset": 21.848604000000023,
+                    "emotion": "excitement",
+                    "text": "쌤 말 들어야지 전학생. 이해 했어?",
+                    "valence": 5.0,
+                    "onset": 18.16656499999999
+                }
+            },
+            "offset": 1580.5,
+            "onset": 1540.5
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 5.0,
+                    "violence": "violence",
+                    "offset": 3.4467959999999493,
+                    "emotion": "unknown",
+                    "text": "눈 뜨라고 이 새끼야, 눈",
+                    "valence": 5.0,
+                    "onset": 1.2013409999999567
+                },
+                "002": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 39.06701900000007,
+                    "emotion": "anger",
+                    "text": "야 이 씨 찡찡아 전학생 졸라 멋있다, 그렇지, 어?",
+                    "valence": 4.0,
+                    "onset": 32.070044999999936
+                },
+                "001": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 14.831995000000006,
+                    "emotion": "neutral",
+                    "text": "재벌 이세면 양아치 짓 해도 되는거냐?",
+                    "valence": 0.0,
+                    "onset": 10.548903999999993
+                }
+            },
+            "offset": 1494.0,
+            "onset": 1454.0
+        }
+    }
+}

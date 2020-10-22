@@ -1,0 +1,56 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 11.892012300000033,
+                    "emotion": "anger",
+                    "text": "아이, 미친 거야, 어? 아 진짜",
+                    "valence": 4.0,
+                    "onset": 6.331704299999956
+                },
+                "002": {
+                    "arousal": 9.0,
+                    "violence": "violence",
+                    "offset": 25.800295000000006,
+                    "emotion": "fear ",
+                    "text": "매, 매점에 딸기우유가 없었어, 미안해",
+                    "valence": 8.0,
+                    "onset": 22.682111000000077
+                },
+                "001": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 18.559886400000096,
+                    "emotion": "disgusting",
+                    "text": "야, 너 내가 흰 우유 싫어하는 거 알라, 몰라?",
+                    "valence": 8.0,
+                    "onset": 14.084126499999911
+                },
+                "003": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 31.165954000000056,
+                    "emotion": "anger",
+                    "text": "아유, 씨, 찡찡이, 씨 봐 봐",
+                    "valence": 4.0,
+                    "onset": 27.78918500000009
+                },
+                "004": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 39.145815000000084,
+                    "emotion": "anger",
+                    "text": "매점에 없으면, 새끼야 학교 밖 슈퍼에 가서 사 오면 되잖아",
+                    "valence": 4.0,
+                    "onset": 33.625264000000016
+                }
+            },
+            "offset": 1407.0,
+            "onset": 1367.0
+        }
+    }
+}

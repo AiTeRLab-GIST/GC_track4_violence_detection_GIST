@@ -1,0 +1,83 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 4.842730999999958,
+                    "emotion": "disgusting",
+                    "text": "아유, 진짜 잘생겼다, 찡찡이, 어? 야 사진 좀 찍자",
+                    "valence": 8.0,
+                    "onset": 0.9164659999999003
+                },
+                "006": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 36.17883400000005,
+                    "emotion": "neutral",
+                    "text": "쟤한테 밉보여서 너나 아저씨한테 좋을 거 하나 없어",
+                    "valence": 0.0,
+                    "onset": 32.744286999999986
+                },
+                "003": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 19.915076,
+                    "emotion": "neutral",
+                    "text": "너희 아빠 회사 회장 아들",
+                    "valence": 0.0,
+                    "onset": 17.505852000000004
+                },
+                "004": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 24.405287999999928,
+                    "emotion": "anger",
+                    "text": "외, 왼쪽, 왼쪽,씨,왼쪽 오, 오른쪽도 모르냐? 이새끼가 씨",
+                    "valence": 4.0,
+                    "onset": 19.697924000000057
+                },
+                "002": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 16.06127300000003,
+                    "emotion": "neutral",
+                    "text": "오지랖도 상황 봐 가면서 해 쟤 누군지 못 들었어? ",
+                    "valence": 0.0,
+                    "onset": 11.495333000000073
+                },
+                "005": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 32.82001500000001,
+                    "emotion": "neutral",
+                    "text": "뭘 그래서야? 장가 후계자 재벌 2세라고",
+                    "valence": 0.0,
+                    "onset": 28.289430999999922
+                },
+                "001": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 11.5710610000001,
+                    "emotion": "neutral",
+                    "text": "보기 불편해서",
+                    "valence": 0.0,
+                    "onset": 9.232549000000063
+                },
+                "007": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 39.643722000000025,
+                    "emotion": "neutral",
+                    "text": "그게 이유야?",
+                    "valence": 0.0,
+                    "onset": 37.658770000000004
+                }
+            },
+            "offset": 1449.0,
+            "onset": 1409.0
+        }
+    }
+}

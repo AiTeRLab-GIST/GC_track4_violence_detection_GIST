@@ -1,0 +1,47 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 13.107434000000012,
+                    "emotion": "anger",
+                    "text": "인상도 더럽고 시커먼게 싸움 좀 하나 봐, 응,응,응?",
+                    "valence": 4.0,
+                    "onset": 7.726623999999902
+                },
+                "002": {
+                    "arousal": 6.0,
+                    "violence": "violence",
+                    "offset": 30.238757000000078,
+                    "emotion": "excitement",
+                    "text": "아이고 담탱이 왔네",
+                    "valence": 5.0,
+                    "onset": 27.055927999999994
+                },
+                "001": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 19.73370100000011,
+                    "emotion": "neutral",
+                    "text": "이 학교의 룰 하나 알려 줄까?",
+                    "valence": 0.0,
+                    "onset": 17.165013000000044
+                },
+                "003": {
+                    "arousal": 0.0,
+                    "violence": "violence",
+                    "offset": 36.800377000000026,
+                    "emotion": "neutral",
+                    "text": "우리 찡찡이 이따 마저 혼나자",
+                    "valence": 0.0,
+                    "onset": 30.90239399999996
+                }
+            },
+            "offset": 1540.0,
+            "onset": 1500.0
+        }
+    }
+}

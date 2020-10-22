@@ -1,0 +1,20 @@
+{
+    "clip_id": "004",
+    "data": {
+        "scene": {
+            "audio": {
+                "000": {
+                    "arousal": 4.0,
+                    "violence": "violence",
+                    "offset": 7.858997999999929,
+                    "emotion": "anger",
+                    "text": "미쳐 가지고 이 씨",
+                    "valence": 4.0,
+                    "onset": 5.872129000000086
+                }
+            },
+            "offset": 1630.0,
+            "onset": 1590.0
+        }
+    }
+}
