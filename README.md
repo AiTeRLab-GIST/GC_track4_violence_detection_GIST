@@ -9,11 +9,11 @@ Grand Challenge track 4 sourcecode developed by GIST
 4차 트랙 2 : 음성인지	주어진 음성클립에서 위협상황을 검출하고, 해당 위협상황을 구분하라
 
 # 코드 설명
-feature_extraction.py 코드로부터 mfcc 특징 추출
+feature_extraction.py : mfcc 특징 추출 코드
 
 ex) feature_extraction --intput_dir=./sample_data --output_dir=./sample_output
 
-run_model.py 코드로부터 특징 추출된 데이터 기반 model train
+run_model.py : 데이터 sample로부터 추출된 특징 기반 모델 학습 코드
 
 # Contributors
 김홍국 (hongkook@gist.ac.kr, GIST, 교수)
