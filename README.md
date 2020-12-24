@@ -1,4 +1,4 @@
-# GC_4_track2_sourcecode_GIST
+# GC4_track2_sourcecode_GIST
 Grand Challenge 4 track 2 sourcecode developed by GIST
 
 # 과제 개요(2020 Grand Challenge 4차 2트랙 개요)
