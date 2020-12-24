@@ -37,4 +37,4 @@ run_model.py : 데이터 sample로부터 추출된 특징 기반 모델 학습 �
 송일훈 (ilhoon1204@gm.gist.ac.kr, GIST, 석사과정)
 
 # Acknowledgement
-This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2019-0-01767, Development of Machine Learning-Based Acoustic Intelligence Technology for Disaster Response Using Drones)
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2020-0-0227, Development of Aggression Detection in Speech Using Acoustic- and Text-based Sentiment Analysis)
