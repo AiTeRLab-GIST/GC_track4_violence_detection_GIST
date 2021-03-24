@@ -10,7 +10,6 @@ Grand Challenge 4 track 2 sourcecode developed by GIST
 
 # 코드 설명
 feature_extraction.py : mfcc 특징 추출 코드
-
 ex) feature_extraction --intput_dir=./sample_data --output_dir=./sample_output
 
 run_model.py : 데이터 sample로부터 추출된 특징 기반 모델 학습 코드
